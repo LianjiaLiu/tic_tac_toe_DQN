@@ -8,4 +8,4 @@ Tic-tac-toe is a classic problem which can even be solved by non-RL methods. The
  `gymnasium>=0.28.1` and `python>=3.10.*`
 
 ## Acknowledgments
-Copyright of the function for loading opponent policies, interactions with Gymnasium environment is under Reinforcement 23/24 team of Saarland University. 
+Copyright of the function for loading opponent policies, interactions with Gymnasium environment and the provided opponent policies is under Reinforcement 23/24 team of Saarland University. 
